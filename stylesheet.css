@@ -1,0 +1,39 @@
+/* div{
+    border: 2px double rgb(41, 36, 36);
+}
+.navbar {margin: 30px;
+padding: 0px 30px 0px 0px ;}
+a{margin: 30px;
+} */
+.main {
+    height: 55vh;
+    width: 60%;
+    background-color:white;
+    margin: 0 auto;
+    border: 2px double black;
+    overflow: hidden;
+}
+
+.child {
+    padding-left: 13%;
+}
+
+a {
+    margin: 4%;
+}
+
+.logo {
+    padding-left: 30%;
+}
+.navbar{border-top:2px ;
+    border-right: 0px;
+border-bottom: 1px;
+border-left: 0px;
+border-color: black;
+border-style: solid;
+margin-right: 10%;}
+a{text-decoration: none;
+color: black;}
+.para1{text-align: center;}
+
+
